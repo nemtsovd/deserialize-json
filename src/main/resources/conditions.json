@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "legal_event",
+      "le_register_type_code": "03",
+      "le_event_type_code": [
+        "015",
+        "036",
+        "038"
+      ],
+      "is_blocked": false,
+      "is_deleted": true
+    },
+    {
+      "type": "register_record",
+      "rr_presence_status_code": "01"
+    }
+  ]
+}
